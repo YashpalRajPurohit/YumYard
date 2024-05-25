@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YumYard/static/css/main.f45b72d8.css",
+    "main.js": "/YumYard/static/js/main.8c73d055.js",
+    "static/js/453.679e8433.chunk.js": "/YumYard/static/js/453.679e8433.chunk.js",
+    "static/media/file.png": "/YumYard/static/media/file.3666c6120769540de75f.png",
+    "index.html": "/YumYard/index.html",
+    "main.f45b72d8.css.map": "/YumYard/static/css/main.f45b72d8.css.map",
+    "main.8c73d055.js.map": "/YumYard/static/js/main.8c73d055.js.map",
+    "453.679e8433.chunk.js.map": "/YumYard/static/js/453.679e8433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f45b72d8.css",
+    "static/js/main.8c73d055.js"
+  ]
+}
